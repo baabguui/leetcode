@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/baabguui/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/baabguui/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/baabguui/leetcode/tree/master/2615-sum-of-distances) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/baabguui/leetcode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
