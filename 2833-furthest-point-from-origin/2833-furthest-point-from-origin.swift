@@ -1,16 +1,16 @@
 class Solution {
     func furthestDistanceFromOrigin(_ moves: String) -> Int {
     var diff = 0
-    let count = moves.count
-    let arr = Array(moves.replacingOccurrences(of: "_", with: ""))
-    let directCount = arr.count
-    for m in arr {
+    var count = 0
+    for m in Array(moves) {
       if m == "R" {
         diff += 1
-      } else {
+      } else if m == "L" {
         diff -= 1
+      } else {
+        count += 1
       }
     }
-    return abs(diff) + count - directCount
+    return abs(diff) + count
   }
 }
