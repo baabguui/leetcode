@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/baabguui/leetcode/tree/master/0006-zigzag-conversion) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/baabguui/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/baabguui/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Trie
