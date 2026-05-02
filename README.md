@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0788-rotated-digits](https://github.com/baabguui/leetcode/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/baabguui/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Sorting
 |  |
@@ -75,5 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0788-rotated-digits](https://github.com/baabguui/leetcode/tree/master/0788-rotated-digits) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/baabguui/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 <!---LeetCode Topics End-->
