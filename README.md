@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/baabguui/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/baabguui/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/baabguui/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1861-rotating-the-box](https://github.com/baabguui/leetcode/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/baabguui/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/baabguui/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/baabguui/leetcode/tree/master/2615-sum-of-distances) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/baabguui/leetcode/tree/master/0130-surrounded-regions) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/baabguui/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/baabguui/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1861-rotating-the-box](https://github.com/baabguui/leetcode/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/baabguui/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/baabguui/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Math
@@ -94,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/baabguui/leetcode/tree/master/0061-rotate-list) |
+| [1861-rotating-the-box](https://github.com/baabguui/leetcode/tree/master/1861-rotating-the-box) |
 <!---LeetCode Topics End-->
