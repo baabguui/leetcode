@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/baabguui/leetcode/tree/master/0048-rotate-image) |
 | [0788-rotated-digits](https://github.com/baabguui/leetcode/tree/master/0788-rotated-digits) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/baabguui/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/baabguui/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Sorting
 |  |
