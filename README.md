@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/baabguui/leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/baabguui/leetcode/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/baabguui/leetcode/tree/master/0130-surrounded-regions) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/baabguui/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -34,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/baabguui/leetcode/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/baabguui/leetcode/tree/master/0014-longest-common-prefix) |
 | [0796-rotate-string](https://github.com/baabguui/leetcode/tree/master/0796-rotate-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/baabguui/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/baabguui/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/baabguui/leetcode/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/baabguui/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Hash Table
 |  |
