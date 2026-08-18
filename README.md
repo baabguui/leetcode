@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/baabguui/leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/baabguui/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/baabguui/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/baabguui/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/baabguui/leetcode/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/baabguui/leetcode/tree/master/0130-surrounded-regions) |
 | [0840-magic-squares-in-grid](https://github.com/baabguui/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/baabguui/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/baabguui/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/baabguui/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/baabguui/leetcode/tree/master/0130-surrounded-regions) |
 | [0840-magic-squares-in-grid](https://github.com/baabguui/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/baabguui/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/baabguui/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/baabguui/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/baabguui/leetcode/tree/master/0412-fizz-buzz) |
 | [2553-separate-the-digits-in-an-array](https://github.com/baabguui/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Tree
