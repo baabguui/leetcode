@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/baabguui/leetcode/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/baabguui/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/baabguui/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/baabguui/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/baabguui/leetcode/tree/master/0242-valid-anagram) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/baabguui/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/baabguui/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/baabguui/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0840-magic-squares-in-grid](https://github.com/baabguui/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/baabguui/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/baabguui/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/baabguui/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/baabguui/leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/baabguui/leetcode/tree/master/0412-fizz-buzz) |
