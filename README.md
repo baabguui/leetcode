@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/baabguui/leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/baabguui/leetcode/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/baabguui/leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/baabguui/leetcode/tree/master/0796-rotate-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/baabguui/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/baabguui/leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/baabguui/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/baabguui/leetcode/tree/master/0048-rotate-image) |
+| [0412-fizz-buzz](https://github.com/baabguui/leetcode/tree/master/0412-fizz-buzz) |
 | [0788-rotated-digits](https://github.com/baabguui/leetcode/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/baabguui/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/baabguui/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/baabguui/leetcode/tree/master/0412-fizz-buzz) |
 | [2553-separate-the-digits-in-an-array](https://github.com/baabguui/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Tree
 |  |
