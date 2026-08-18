@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/baabguui/leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/baabguui/leetcode/tree/master/0014-longest-common-prefix) |
+| [0344-reverse-string](https://github.com/baabguui/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/baabguui/leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/baabguui/leetcode/tree/master/0796-rotate-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/baabguui/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/baabguui/leetcode/tree/master/0061-rotate-list) |
+| [0344-reverse-string](https://github.com/baabguui/leetcode/tree/master/0344-reverse-string) |
 | [1861-rotating-the-box](https://github.com/baabguui/leetcode/tree/master/1861-rotating-the-box) |
 ## Simulation
 |  |
