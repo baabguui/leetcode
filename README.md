@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/baabguui/leetcode/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/baabguui/leetcode/tree/master/0130-surrounded-regions) |
 | [0498-diagonal-traverse](https://github.com/baabguui/leetcode/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/baabguui/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/baabguui/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/baabguui/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/baabguui/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/baabguui/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/baabguui/leetcode/tree/master/0130-surrounded-regions) |
 | [0498-diagonal-traverse](https://github.com/baabguui/leetcode/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/baabguui/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/baabguui/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/baabguui/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/baabguui/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/baabguui/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/baabguui/leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/baabguui/leetcode/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/baabguui/leetcode/tree/master/0566-reshape-the-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/baabguui/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Tree
 |  |
