@@ -1,20 +1,12 @@
 class Solution {
     func searchInsert(_ nums: [Int], _ target: Int) -> Int {
-        var pointer = nums.count/2
-        var right = nums[pointer] < target
+        var start = 0, end = nums.count
 
-        while pointer >= 0 && pointer < nums.count {
-            if nums[pointer] == target {
-                break
-            } else if nums[pointer] > target {
-                if right { break }
-                pointer -= 1
-            } else {
-                if !right { pointer += 1; break }
-                pointer += 1
-            }
+        while start < end {
+            let mid = (start + end)/2
+            nums[mid] < target ? (start = mid + 1) : (end = mid)
         }
         
-        return pointer < 0 ? 0 : pointer
+        return start
     }
 }
