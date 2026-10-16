@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/baabguui/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/baabguui/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/baabguui/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/baabguui/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/baabguui/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/baabguui/leetcode/tree/master/0412-fizz-buzz) |
 | [0788-rotated-digits](https://github.com/baabguui/leetcode/tree/master/0788-rotated-digits) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/baabguui/leetcode/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/baabguui/leetcode/tree/master/0788-rotated-digits) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/baabguui/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/baabguui/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/baabguui/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/baabguui/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
