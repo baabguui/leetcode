@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/baabguui/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/baabguui/leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/baabguui/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/baabguui/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/baabguui/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/baabguui/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/baabguui/leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/baabguui/leetcode/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/baabguui/leetcode/tree/master/0788-rotated-digits) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/baabguui/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/baabguui/leetcode/tree/master/0045-jump-game-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/baabguui/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Queue
 |  |
